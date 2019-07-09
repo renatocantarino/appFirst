@@ -1,0 +1,5 @@
+{
+    "dburi": "mongodb+srv://renatocantarino:crcwifi123___@cantarinocluster-yejbg.mongodb.net/test?retryWrites=true&w=majority",
+    "fbclientId": "XXXXXXXXXX",
+    "fbclientSecret": "XXXXXXXXXXXX"
+}
